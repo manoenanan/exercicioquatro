@@ -1,0 +1,52 @@
+div {
+    width: 840px;
+    margin: 263px auto;
+
+}
+article {
+    width: 551px;
+    margin-bottom: 32px;
+}
+
+h2 { 
+    font-size: 48px;
+    color: #271E3A;
+    font-weight: 700px;
+    width: 835px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-size: 24px;
+    color: #292532;
+    font-weight: 840px;
+    width: 840px;
+    font-family: 'Open Sans', sans-serif;
+}
+img {
+    background: url(casimiro.jpg);
+    border-radius: 15px;
+    margin-bottom: 64px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 400px;
+    line-height: 32px;
+    width: 829px;
+    font-family: 'Open Sans', sans-serif;
+    color:  #322D3C;
+    margin-bottom: 32px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 400px;
+    line-height: 32px;
+    width: 834px;
+    font-family: 'Open Sans', sans-serif;
+    color:  #322D3C;
+    margin-bottom: 32px;
+}
+                
+
